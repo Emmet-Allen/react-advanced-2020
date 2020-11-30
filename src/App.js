@@ -12,13 +12,13 @@
 // By the end of this section, you will be able to create cool react projects
 
 import React from "react";
-import Final from "./tutorial/1-useState/final/3-useState-array";
+import Setup from "./tutorial/2-useEffect/setup/2-useEffect-cleanup";
 import "./index.css";
 
 function App() {
   return (
     <div className="container">
-      <Final />
+      <Setup />
     </div>
   );
 }

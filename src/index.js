@@ -5,9 +5,4 @@ import App from "./App";
 
 //index.js is just used to render app.js via import
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById("root")
-);
+ReactDOM.render(<App />, document.getElementById("root"));
