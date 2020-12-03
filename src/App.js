@@ -12,7 +12,7 @@
 // By the end of this section, you will be able to create cool react projects
 
 import React from "react";
-import Setup from "./tutorial/3-conditional-rendering/setup/1-multiple-returns";
+import Setup from "./tutorial/3-conditional-rendering/setup/2-short-circuit";
 import "./index.css";
 
 function App() {
